@@ -1,0 +1,5 @@
+Orders can be cancelled without charge before restaurant preparation begins.
+
+Once preparation starts, cancellation charges may apply.
+
+Prepared orders cannot be cancelled.
